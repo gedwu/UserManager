@@ -1,0 +1,20 @@
+
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+// User Table styles
+@import 'userTable';
+
+// Font Awesome styles
+@import "//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css";
+
+.navbar-laravel {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
